@@ -1,31 +1,29 @@
-# Starbucks-Capstone-Challenge
-
-Blog link [here](https://kirankamath.hashnode.dev/predicting-starbucks-offer-success-and-finding-most-relevant-factors-for-offer-success)
+# Starbucks Capstone Challenge
  
 ### Table of Contents
 
-1. [Libraries Used](#Libraries)
+1. [Libraries](#Libraries)
 2. [Project Motivation](#motivation)
 3. [Summary](#summary)
 4. [File Descriptions](#files)
-5. [Licensing and Acknowledgements](#licensing)
+5. [Acknowledgements](#licensing)
 
-## Libraries used <a name="Libraries"></a>
+## Libraries <a name="Libraries"></a>
 Libraries
-This project requires Python 3.x and the following Python libraries installed:
+This project Python version libraries rqurements:
 - python==3.8.8
-- seaborn==0.8.1
-- pandas==0.23.3
-- numpy==1.12.1
-- matplotlib==2.1.0
-- sklearn==0.19.1
+- seaborn==0.11.2
+- pandas==1.5.3
+- numpy==1.22.4
+- matplotlib==3.3.4
+- sklearn==1.1.2
 
 
 ## Project Motivation<a name="motivation"></a>
 
 In this project we look at Starbucks campaign offers performance and build a model that can predict success or failure of the offer.
 
-Utilizing this data, **Interested topics** are:
+ **Our topics of Interest** are:
 
 - Get insight on customer expenditure based on Gender , Income and age.
 - Identify most successful offer
@@ -41,6 +39,7 @@ This github repo contains
 
 ## Blogpost Link
 Analysis Summary can be found in below Link
+ [here](https://medium.com/p/4ad8c83e082b/edit)
 
 ## Acknowledgement 
 
